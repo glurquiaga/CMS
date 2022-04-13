@@ -1,1 +1,1 @@
-# ClinicManagementSGI
+# CMS
